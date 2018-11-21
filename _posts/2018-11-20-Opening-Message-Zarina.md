@@ -1,7 +1,7 @@
 ---
 
 layout: post
-title:  "Opening Message Zarina :-P"
+title:  "Opening Message Zarina"
 date:   2018-11-20 16:16:01 -0500
 
 

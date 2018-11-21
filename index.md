@@ -4,3 +4,10 @@
 
 layout: home
 ---
+
+
+Content test <strong>Test</strong>
+
+
+<div>Footer menu</div>
+</br>Test div foot menu

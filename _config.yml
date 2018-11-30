@@ -17,7 +17,7 @@ title: Political Sense
 email: TGriffin@travis-griffin.com
 description: >- # this means to ignore newlines until "baseurl:"
   Semi-adults writing their opiinion about Politicals, Current and past.
-baseurl: "politicalsense" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
 github_username:  tgriff85
@@ -27,6 +27,7 @@ markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-menus
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

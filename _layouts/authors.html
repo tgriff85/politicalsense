@@ -1,0 +1,12 @@
+---
+layout: page
+
+---
+
+{% for per in site.data.people 
+{% if per.name = true %}
+{{ person.name }}, {{ person.occupation }}
+{% endfor %}
+
+
+{{Content}}
